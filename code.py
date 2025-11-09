@@ -3,7 +3,7 @@ import os  #file and path operations
 import time  #measure time or add delays
 import json  #read/write JSON data
 import requests  #make HTTP API calls
-from IPython.display import clear_output  #clear notebook output
+from IPython.display import clear_output  
 
 #core scientific libraries
 import numpy as np  #numerical computations
